@@ -22,6 +22,8 @@ The scope covers the full cement dispatch cycle:
 * Real-time dispatch tracking.
 * Delivery confirmation and documentation.
 
+https://github.com/Gunareddy11/Cement_Dispatch_Project/blob/0a90d5f3113b1a557988b0eb1fade80f48df82ad/Cement_Dispatch_Report.pdf
+
 ## 4. Methodology
 
 1. **Data Collection**: Historical dispatch data, transportation costs, order cycle times, and deviations were analyzed.
